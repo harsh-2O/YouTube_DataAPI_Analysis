@@ -14,6 +14,8 @@ This repository contains a comprehensive analysis of YouTube Data API, including
 2. Install the required packages by running `pip install -r requirements.txt` in the terminal.
 3. Obtain an API key from the [Google Developers Console](https://console.developers.google.com) for accessing the YouTube Data API.
 
+**NOTE: Please use your own API key when accessing the YouTube Data API.**
+
 ## Code Structure
 The code in this repository is organized into the following directories:
 - `data`: Contains the data obtained from the YouTube Data API.
